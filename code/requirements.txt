@@ -1,2 +1,10 @@
 fastapi
 uvicorn
+python-multipart
+pymupdf
+transformers
+torch
+scikot-learn
+numpy
+pandas
+jieba
