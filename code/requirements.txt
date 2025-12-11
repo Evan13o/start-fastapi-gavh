@@ -4,7 +4,7 @@ python-multipart
 pymupdf
 transformers
 torch
-scikot-learn
+scikit-learn
 numpy
 pandas
 jieba
